@@ -1,0 +1,10 @@
+{ S.trad := "var" || V.trad || T.trad|| ";" }
+{ if W.trad != "" V.temp := "array [" || W.trad
+  else V.temp := W.trad 
+  	   V.trad := id.valex || ":" || V.temp }
+{ if W.trad = "" W.trad := "0.." || nint.valex-1 ||"] of"
+  else W.trad := "0.." || nint.valex-1 || "," || W.trad }
+{ W.trad := "" }
+{ T.trad := "integer" }
+{ T.trad := "char" }
+{ T.trad := "real" }

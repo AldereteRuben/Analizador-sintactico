@@ -1,0 +1,10 @@
+N 
+N T V W 
+; id [ ] int epsilon char float num
+N T V ;
+V id W 
+W [ num ] W 
+W epsilon
+T int 
+T char
+T float

@@ -1,0 +1,1783 @@
+594
+
+Ir_a(I_0,A)
+Ir_a(I_0,B)
+Ir_a(I_0,int)
+Ir_a(I_1,$)
+Ir_a(I_2,C)
+Ir_a(I_2,main)
+Ir_a(I_4,D)
+Ir_a(I_4,()
+Ir_a(I_6,E)
+Ir_a(I_6,{)
+Ir_a(I_7,F)
+Ir_a(I_9,GN)
+Ir_a(I_9,G)
+Ir_a(I_9,AZ)
+Ir_a(I_9,YF)
+Ir_a(I_9,FI)
+Ir_a(I_9,PR)
+Ir_a(I_9,PL)
+Ir_a(I_9,PQ)
+Ir_a(I_9,H)
+Ir_a(I_9,Y)
+Ir_a(I_9,I)
+Ir_a(I_9,scanf)
+Ir_a(I_9,do)
+Ir_a(I_9,printf)
+Ir_a(I_9,J)
+Ir_a(I_9,for)
+Ir_a(I_9,while)
+Ir_a(I_9,if)
+Ir_a(I_9,switch)
+Ir_a(I_9,R)
+Ir_a(I_9,float)
+Ir_a(I_9,int)
+Ir_a(I_9,bool)
+Ir_a(I_9,char)
+Ir_a(I_9,K)
+Ir_a(I_9,K)
+Ir_a(I_9,id)
+Ir_a(I_10,))
+Ir_a(I_11,AJ)
+Ir_a(I_11,return)
+Ir_a(I_13,G)
+Ir_a(I_13,AZ)
+Ir_a(I_13,YF)
+Ir_a(I_13,FI)
+Ir_a(I_13,PR)
+Ir_a(I_13,PL)
+Ir_a(I_13,PQ)
+Ir_a(I_13,H)
+Ir_a(I_13,Y)
+Ir_a(I_13,I)
+Ir_a(I_13,scanf)
+Ir_a(I_13,do)
+Ir_a(I_13,printf)
+Ir_a(I_13,J)
+Ir_a(I_13,for)
+Ir_a(I_13,while)
+Ir_a(I_13,if)
+Ir_a(I_13,switch)
+Ir_a(I_13,R)
+Ir_a(I_13,float)
+Ir_a(I_13,int)
+Ir_a(I_13,bool)
+Ir_a(I_13,char)
+Ir_a(I_13,K)
+Ir_a(I_13,K)
+Ir_a(I_13,id)
+Ir_a(I_14,G)
+Ir_a(I_14,AZ)
+Ir_a(I_14,YF)
+Ir_a(I_14,FI)
+Ir_a(I_14,PR)
+Ir_a(I_14,PL)
+Ir_a(I_14,PQ)
+Ir_a(I_14,H)
+Ir_a(I_14,Y)
+Ir_a(I_14,I)
+Ir_a(I_14,scanf)
+Ir_a(I_14,do)
+Ir_a(I_14,printf)
+Ir_a(I_14,J)
+Ir_a(I_14,for)
+Ir_a(I_14,while)
+Ir_a(I_14,if)
+Ir_a(I_14,switch)
+Ir_a(I_14,R)
+Ir_a(I_14,float)
+Ir_a(I_14,int)
+Ir_a(I_14,bool)
+Ir_a(I_14,char)
+Ir_a(I_14,K)
+Ir_a(I_14,K)
+Ir_a(I_14,id)
+Ir_a(I_15,G)
+Ir_a(I_15,AZ)
+Ir_a(I_15,YF)
+Ir_a(I_15,FI)
+Ir_a(I_15,PR)
+Ir_a(I_15,PL)
+Ir_a(I_15,PQ)
+Ir_a(I_15,H)
+Ir_a(I_15,Y)
+Ir_a(I_15,I)
+Ir_a(I_15,scanf)
+Ir_a(I_15,do)
+Ir_a(I_15,printf)
+Ir_a(I_15,J)
+Ir_a(I_15,for)
+Ir_a(I_15,while)
+Ir_a(I_15,if)
+Ir_a(I_15,switch)
+Ir_a(I_15,R)
+Ir_a(I_15,float)
+Ir_a(I_15,int)
+Ir_a(I_15,bool)
+Ir_a(I_15,char)
+Ir_a(I_15,K)
+Ir_a(I_15,K)
+Ir_a(I_15,id)
+Ir_a(I_16,G)
+Ir_a(I_16,AZ)
+Ir_a(I_16,YF)
+Ir_a(I_16,FI)
+Ir_a(I_16,PR)
+Ir_a(I_16,PL)
+Ir_a(I_16,PQ)
+Ir_a(I_16,H)
+Ir_a(I_16,Y)
+Ir_a(I_16,I)
+Ir_a(I_16,scanf)
+Ir_a(I_16,do)
+Ir_a(I_16,printf)
+Ir_a(I_16,J)
+Ir_a(I_16,for)
+Ir_a(I_16,while)
+Ir_a(I_16,if)
+Ir_a(I_16,switch)
+Ir_a(I_16,R)
+Ir_a(I_16,float)
+Ir_a(I_16,int)
+Ir_a(I_16,bool)
+Ir_a(I_16,char)
+Ir_a(I_16,K)
+Ir_a(I_16,K)
+Ir_a(I_16,id)
+Ir_a(I_17,G)
+Ir_a(I_17,AZ)
+Ir_a(I_17,YF)
+Ir_a(I_17,FI)
+Ir_a(I_17,PR)
+Ir_a(I_17,PL)
+Ir_a(I_17,PQ)
+Ir_a(I_17,H)
+Ir_a(I_17,Y)
+Ir_a(I_17,I)
+Ir_a(I_17,scanf)
+Ir_a(I_17,do)
+Ir_a(I_17,printf)
+Ir_a(I_17,J)
+Ir_a(I_17,for)
+Ir_a(I_17,while)
+Ir_a(I_17,if)
+Ir_a(I_17,switch)
+Ir_a(I_17,R)
+Ir_a(I_17,float)
+Ir_a(I_17,int)
+Ir_a(I_17,bool)
+Ir_a(I_17,char)
+Ir_a(I_17,K)
+Ir_a(I_17,K)
+Ir_a(I_17,id)
+Ir_a(I_18,G)
+Ir_a(I_18,AZ)
+Ir_a(I_18,YF)
+Ir_a(I_18,FI)
+Ir_a(I_18,PR)
+Ir_a(I_18,PL)
+Ir_a(I_18,PQ)
+Ir_a(I_18,H)
+Ir_a(I_18,Y)
+Ir_a(I_18,I)
+Ir_a(I_18,scanf)
+Ir_a(I_18,do)
+Ir_a(I_18,printf)
+Ir_a(I_18,J)
+Ir_a(I_18,for)
+Ir_a(I_18,while)
+Ir_a(I_18,if)
+Ir_a(I_18,switch)
+Ir_a(I_18,R)
+Ir_a(I_18,float)
+Ir_a(I_18,int)
+Ir_a(I_18,bool)
+Ir_a(I_18,char)
+Ir_a(I_18,K)
+Ir_a(I_18,K)
+Ir_a(I_18,id)
+Ir_a(I_22,()
+Ir_a(I_23,E)
+Ir_a(I_23,{)
+Ir_a(I_24,()
+Ir_a(I_25,Q)
+Ir_a(I_25,*)
+Ir_a(I_26,()
+Ir_a(I_27,()
+Ir_a(I_28,()
+Ir_a(I_29,()
+Ir_a(I_30,S)
+Ir_a(I_30,U)
+Ir_a(I_30,/)
+Ir_a(I_30,*)
+Ir_a(I_30,+)
+Ir_a(I_30,-)
+Ir_a(I_30,/)
+Ir_a(I_30,*)
+Ir_a(I_30,+)
+Ir_a(I_30,-)
+Ir_a(I_36,AL)
+Ir_a(I_36,[)
+Ir_a(I_36,[)
+Ir_a(I_38,})
+Ir_a(I_39,nint)
+Ir_a(I_46,String)
+Ir_a(I_47,while)
+Ir_a(I_48,BA)
+Ir_a(I_48,String)
+Ir_a(I_49,K)
+Ir_a(I_49,id)
+Ir_a(I_51,X)
+Ir_a(I_51,BB)
+Ir_a(I_51,J)
+Ir_a(I_51,float)
+Ir_a(I_51,int)
+Ir_a(I_51,bool)
+Ir_a(I_51,char)
+Ir_a(I_52,AD)
+Ir_a(I_52,SIG)
+Ir_a(I_52,NN)
+Ir_a(I_52,T)
+Ir_a(I_52,nint)
+Ir_a(I_52,id)
+Ir_a(I_52,W)
+Ir_a(I_52,()
+Ir_a(I_53,AD)
+Ir_a(I_53,SIG)
+Ir_a(I_53,NN)
+Ir_a(I_53,T)
+Ir_a(I_53,nint)
+Ir_a(I_53,id)
+Ir_a(I_53,W)
+Ir_a(I_53,()
+Ir_a(I_54,id)
+Ir_a(I_55,SIG)
+Ir_a(I_55,ID)
+Ir_a(I_55,T)
+Ir_a(I_55,Caracter)
+Ir_a(I_55,String)
+Ir_a(I_55,W)
+Ir_a(I_55,NN)
+Ir_a(I_55,()
+Ir_a(I_55,nint)
+Ir_a(I_55,id)
+Ir_a(I_56,=)
+Ir_a(I_62,NN)
+Ir_a(I_62,nint)
+Ir_a(I_62,id)
+Ir_a(I_64,;)
+Ir_a(I_65,KR)
+Ir_a(I_65,,)
+Ir_a(I_66,()
+Ir_a(I_67,CO)
+Ir_a(I_67,,)
+Ir_a(I_69,M)
+Ir_a(I_69,=)
+Ir_a(I_70,AL)
+Ir_a(I_70,[)
+Ir_a(I_71,AD)
+Ir_a(I_71,SIG)
+Ir_a(I_71,NN)
+Ir_a(I_71,T)
+Ir_a(I_71,nint)
+Ir_a(I_71,id)
+Ir_a(I_71,W)
+Ir_a(I_71,()
+Ir_a(I_72,id)
+Ir_a(I_74,AB)
+Ir_a(I_74,<)
+Ir_a(I_74,<=)
+Ir_a(I_74,>)
+Ir_a(I_74,>=)
+Ir_a(I_74,!)
+Ir_a(I_74,!=)
+Ir_a(I_74,==)
+Ir_a(I_74,&&)
+Ir_a(I_74,||)
+Ir_a(I_77,V)
+Ir_a(I_77,U)
+Ir_a(I_77,/)
+Ir_a(I_77,*)
+Ir_a(I_77,+)
+Ir_a(I_77,-)
+Ir_a(I_81,T)
+Ir_a(I_81,W)
+Ir_a(I_81,NN)
+Ir_a(I_81,()
+Ir_a(I_81,nint)
+Ir_a(I_81,id)
+Ir_a(I_82,AB)
+Ir_a(I_82,<)
+Ir_a(I_82,<=)
+Ir_a(I_82,>)
+Ir_a(I_82,>=)
+Ir_a(I_82,!)
+Ir_a(I_82,!=)
+Ir_a(I_82,==)
+Ir_a(I_82,&&)
+Ir_a(I_82,||)
+Ir_a(I_83,))
+Ir_a(I_84,;)
+Ir_a(I_85,;)
+Ir_a(I_92,])
+Ir_a(I_94,))
+Ir_a(I_95,AM)
+Ir_a(I_95,&)
+Ir_a(I_96,AD)
+Ir_a(I_96,SIG)
+Ir_a(I_96,NN)
+Ir_a(I_96,T)
+Ir_a(I_96,nint)
+Ir_a(I_96,id)
+Ir_a(I_96,W)
+Ir_a(I_96,()
+Ir_a(I_97,JJ)
+Ir_a(I_97,JP)
+Ir_a(I_97,K)
+Ir_a(I_97,SIG)
+Ir_a(I_97,id)
+Ir_a(I_97,T)
+Ir_a(I_97,W)
+Ir_a(I_97,NN)
+Ir_a(I_97,()
+Ir_a(I_97,nint)
+Ir_a(I_99,L)
+Ir_a(I_99,,)
+Ir_a(I_100,N)
+Ir_a(I_100,{)
+Ir_a(I_100,&)
+Ir_a(I_100,nint)
+Ir_a(I_100,Caracter)
+Ir_a(I_102,AB)
+Ir_a(I_102,<)
+Ir_a(I_102,<=)
+Ir_a(I_102,>)
+Ir_a(I_102,>=)
+Ir_a(I_102,!)
+Ir_a(I_102,!=)
+Ir_a(I_102,==)
+Ir_a(I_102,&&)
+Ir_a(I_102,||)
+Ir_a(I_103,M)
+Ir_a(I_103,=)
+Ir_a(I_104,AE)
+Ir_a(I_104,AD)
+Ir_a(I_104,SIG)
+Ir_a(I_104,NN)
+Ir_a(I_104,T)
+Ir_a(I_104,nint)
+Ir_a(I_104,id)
+Ir_a(I_104,W)
+Ir_a(I_104,()
+Ir_a(I_114,W)
+Ir_a(I_114,NN)
+Ir_a(I_114,()
+Ir_a(I_114,nint)
+Ir_a(I_114,id)
+Ir_a(I_116,))
+Ir_a(I_116,V)
+Ir_a(I_116,U)
+Ir_a(I_116,/)
+Ir_a(I_116,*)
+Ir_a(I_116,+)
+Ir_a(I_116,-)
+Ir_a(I_117,AE)
+Ir_a(I_117,AD)
+Ir_a(I_117,SIG)
+Ir_a(I_117,NN)
+Ir_a(I_117,T)
+Ir_a(I_117,nint)
+Ir_a(I_117,id)
+Ir_a(I_117,W)
+Ir_a(I_117,()
+Ir_a(I_118,AF)
+Ir_a(I_118,{)
+Ir_a(I_119,I)
+Ir_a(I_119,R)
+Ir_a(I_119,K)
+Ir_a(I_119,K)
+Ir_a(I_119,id)
+Ir_a(I_120,I)
+Ir_a(I_120,R)
+Ir_a(I_120,K)
+Ir_a(I_120,K)
+Ir_a(I_120,id)
+Ir_a(I_121,AL)
+Ir_a(I_121,[)
+Ir_a(I_122,;)
+Ir_a(I_123,id)
+Ir_a(I_125,AB)
+Ir_a(I_125,<)
+Ir_a(I_125,<=)
+Ir_a(I_125,>)
+Ir_a(I_125,>=)
+Ir_a(I_125,!)
+Ir_a(I_125,!=)
+Ir_a(I_125,==)
+Ir_a(I_125,&&)
+Ir_a(I_125,||)
+Ir_a(I_126,))
+Ir_a(I_127,NXT)
+Ir_a(I_127,,)
+Ir_a(I_130,AL)
+Ir_a(I_130,[)
+Ir_a(I_131,;)
+Ir_a(I_132,Q)
+Ir_a(I_132,*)
+Ir_a(I_133,R)
+Ir_a(I_133,K)
+Ir_a(I_133,id)
+Ir_a(I_134,DD)
+Ir_a(I_134,nint)
+Ir_a(I_134,caracter)
+Ir_a(I_138,AE)
+Ir_a(I_138,AD)
+Ir_a(I_138,SIG)
+Ir_a(I_138,NN)
+Ir_a(I_138,T)
+Ir_a(I_138,nint)
+Ir_a(I_138,id)
+Ir_a(I_138,W)
+Ir_a(I_138,()
+Ir_a(I_139,;)
+Ir_a(I_140,))
+Ir_a(I_144,))
+Ir_a(I_145,Y)
+Ir_a(I_145,for)
+Ir_a(I_145,while)
+Ir_a(I_145,if)
+Ir_a(I_145,switch)
+Ir_a(I_146,AG)
+Ir_a(I_146,AI)
+Ir_a(I_146,case)
+Ir_a(I_152,AE)
+Ir_a(I_152,AD)
+Ir_a(I_152,SIG)
+Ir_a(I_152,NN)
+Ir_a(I_152,T)
+Ir_a(I_152,nint)
+Ir_a(I_152,id)
+Ir_a(I_152,W)
+Ir_a(I_152,()
+Ir_a(I_153,;)
+Ir_a(I_155,JP)
+Ir_a(I_155,K)
+Ir_a(I_155,SIG)
+Ir_a(I_155,id)
+Ir_a(I_155,T)
+Ir_a(I_155,W)
+Ir_a(I_155,NN)
+Ir_a(I_155,()
+Ir_a(I_155,nint)
+Ir_a(I_156,H)
+Ir_a(I_156,J)
+Ir_a(I_156,float)
+Ir_a(I_156,int)
+Ir_a(I_156,bool)
+Ir_a(I_156,char)
+Ir_a(I_157,K)
+Ir_a(I_157,id)
+Ir_a(I_159,P)
+Ir_a(I_159,,)
+Ir_a(I_162,;)
+Ir_a(I_164,E)
+Ir_a(I_164,{)
+Ir_a(I_165,E)
+Ir_a(I_165,{)
+Ir_a(I_167,AH)
+Ir_a(I_167,default)
+Ir_a(I_168,AG)
+Ir_a(I_168,AI)
+Ir_a(I_168,case)
+Ir_a(I_169,nint)
+Ir_a(I_170,))
+Ir_a(I_172,NXT)
+Ir_a(I_172,,)
+Ir_a(I_174,M)
+Ir_a(I_174,=)
+Ir_a(I_175,})
+Ir_a(I_176,DD)
+Ir_a(I_176,nint)
+Ir_a(I_176,caracter)
+Ir_a(I_177,AA)
+Ir_a(I_177,K)
+Ir_a(I_177,id)
+Ir_a(I_178,Y)
+Ir_a(I_178,for)
+Ir_a(I_178,while)
+Ir_a(I_178,if)
+Ir_a(I_178,switch)
+Ir_a(I_179,AC)
+Ir_a(I_179,else)
+Ir_a(I_180,})
+Ir_a(I_181,:)
+Ir_a(I_183,:)
+Ir_a(I_184,;)
+Ir_a(I_186,L)
+Ir_a(I_186,,)
+Ir_a(I_188,P)
+Ir_a(I_188,,)
+Ir_a(I_189,))
+Ir_a(I_190,++)
+Ir_a(I_190,--)
+Ir_a(I_192,Y)
+Ir_a(I_192,for)
+Ir_a(I_192,while)
+Ir_a(I_192,if)
+Ir_a(I_192,switch)
+Ir_a(I_193,E)
+Ir_a(I_193,{)
+Ir_a(I_195,GN)
+Ir_a(I_195,G)
+Ir_a(I_195,AZ)
+Ir_a(I_195,YF)
+Ir_a(I_195,FI)
+Ir_a(I_195,PR)
+Ir_a(I_195,PL)
+Ir_a(I_195,PQ)
+Ir_a(I_195,H)
+Ir_a(I_195,Y)
+Ir_a(I_195,I)
+Ir_a(I_195,scanf)
+Ir_a(I_195,do)
+Ir_a(I_195,printf)
+Ir_a(I_195,J)
+Ir_a(I_195,for)
+Ir_a(I_195,while)
+Ir_a(I_195,if)
+Ir_a(I_195,switch)
+Ir_a(I_195,R)
+Ir_a(I_195,float)
+Ir_a(I_195,int)
+Ir_a(I_195,bool)
+Ir_a(I_195,char)
+Ir_a(I_195,K)
+Ir_a(I_195,K)
+Ir_a(I_195,id)
+Ir_a(I_196,GN)
+Ir_a(I_196,G)
+Ir_a(I_196,AZ)
+Ir_a(I_196,YF)
+Ir_a(I_196,FI)
+Ir_a(I_196,PR)
+Ir_a(I_196,PL)
+Ir_a(I_196,PQ)
+Ir_a(I_196,H)
+Ir_a(I_196,Y)
+Ir_a(I_196,I)
+Ir_a(I_196,scanf)
+Ir_a(I_196,do)
+Ir_a(I_196,printf)
+Ir_a(I_196,J)
+Ir_a(I_196,for)
+Ir_a(I_196,while)
+Ir_a(I_196,if)
+Ir_a(I_196,switch)
+Ir_a(I_196,R)
+Ir_a(I_196,float)
+Ir_a(I_196,int)
+Ir_a(I_196,bool)
+Ir_a(I_196,char)
+Ir_a(I_196,K)
+Ir_a(I_196,K)
+Ir_a(I_196,id)
+Ir_a(I_200,E)
+Ir_a(I_200,{)
+Ir_a(I_205,break)
+Ir_a(I_206,break)
+Ir_a(I_207,Y)
+Ir_a(I_207,for)
+Ir_a(I_207,while)
+Ir_a(I_207,if)
+Ir_a(I_207,switch)
+Ir_a(I_208,;)
+Ir_a(I_209,;)
+I_0
+I_1
+I_2
+I_3
+ACEPTAR
+I_4
+I_5
+I_6
+I_7
+I_8
+I_9
+I_10
+I_11
+I_12
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_37
+I_38
+I_39
+I_40
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_41
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_42
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_43
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_44
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_45
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_46
+I_47
+I_9
+I_48
+I_49
+I_50
+I_51
+I_52
+I_53
+I_54
+I_55
+I_56
+I_57
+I_58
+I_59
+I_60
+I_57
+I_58
+I_59
+I_60
+I_61
+I_62
+I_62
+I_63
+I_64
+I_65
+I_66
+I_67
+I_68
+I_69
+I_70
+I_71
+I_72
+I_73
+I_31
+I_32
+I_33
+I_34
+I_74
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_82
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_83
+I_84
+I_85
+I_77
+I_86
+I_87
+I_80
+I_88
+I_81
+I_89
+I_90
+I_91
+I_92
+I_89
+I_90
+I_93
+I_94
+I_95
+I_96
+I_97
+I_98
+I_99
+I_100
+I_101
+I_62
+I_102
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_103
+I_104
+I_105
+I_106
+I_107
+I_108
+I_109
+I_110
+I_111
+I_112
+I_113
+I_114
+I_115
+I_57
+I_58
+I_59
+I_60
+I_116
+I_80
+I_88
+I_81
+I_89
+I_90
+I_117
+I_105
+I_106
+I_107
+I_108
+I_109
+I_110
+I_111
+I_112
+I_113
+I_118
+I_119
+I_120
+I_121
+I_122
+I_123
+I_124
+I_125
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_126
+I_127
+I_128
+I_129
+I_130
+I_77
+I_80
+I_88
+I_81
+I_89
+I_131
+I_132
+I_133
+I_134
+I_135
+I_136
+I_137
+I_138
+I_105
+I_106
+I_107
+I_108
+I_109
+I_110
+I_111
+I_112
+I_113
+I_139
+I_100
+I_140
+I_141
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_142
+I_88
+I_81
+I_89
+I_90
+I_143
+I_114
+I_115
+I_57
+I_58
+I_59
+I_60
+I_144
+I_141
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_145
+I_146
+I_147
+I_30
+I_35
+I_35
+I_36
+I_148
+I_30
+I_35
+I_35
+I_36
+I_149
+I_62
+I_150
+I_151
+I_152
+I_105
+I_106
+I_107
+I_108
+I_109
+I_110
+I_111
+I_112
+I_113
+I_153
+I_154
+I_155
+I_101
+I_62
+I_156
+I_157
+I_50
+I_158
+I_35
+I_70
+I_159
+I_160
+I_161
+I_162
+I_141
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_163
+I_164
+I_165
+I_166
+I_26
+I_27
+I_28
+I_29
+I_167
+I_168
+I_169
+I_170
+I_141
+I_75
+I_76
+I_77
+I_78
+I_79
+I_80
+I_81
+I_171
+I_172
+I_128
+I_129
+I_130
+I_77
+I_80
+I_88
+I_81
+I_89
+I_173
+I_25
+I_31
+I_32
+I_33
+I_34
+I_174
+I_70
+I_175
+I_176
+I_177
+I_178
+I_9
+I_179
+I_9
+I_180
+I_181
+I_182
+I_168
+I_169
+I_183
+I_184
+I_185
+I_155
+I_186
+I_100
+I_187
+I_188
+I_160
+I_161
+I_189
+I_190
+I_36
+I_191
+I_26
+I_27
+I_28
+I_29
+I_192
+I_193
+I_194
+I_195
+I_196
+I_197
+I_198
+I_132
+I_199
+I_176
+I_200
+I_201
+I_202
+I_203
+I_26
+I_27
+I_28
+I_29
+I_204
+I_9
+I_205
+I_12
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_206
+I_12
+I_13
+I_14
+I_15
+I_16
+I_17
+I_18
+I_19
+I_20
+I_21
+I_22
+I_23
+I_24
+I_25
+I_26
+I_27
+I_28
+I_29
+I_30
+I_31
+I_32
+I_33
+I_34
+I_35
+I_35
+I_36
+I_207
+I_9
+I_208
+I_209
+I_210
+I_26
+I_27
+I_28
+I_29
+I_211
+I_212
+{[A' . A $][A . B C D E][B . int][B .]}
+{[A' A . $]}
+{[A B . C D E][C . main]}
+{[B int .]}
+ 
+{[A B C . D E][D . ( F )]}
+{[C main .]}
+{[A B C D . E][E . { GN AJ }]}
+{[D ( . F )][F .]}
+{[A B C D E .]}
+{[E { . GN AJ }][GN . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[D ( F . )]}
+{[E { GN . AJ }][AJ . return nint ;][AJ .]}
+{[GN G .]}
+{[G AZ . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[G YF . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[G FI . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[G PR . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[G PL . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[G PQ . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[AZ H .]}
+{[YF Y .]}
+{[FI I .]}
+{[PR scanf . ( String KR ) ;]}
+{[PL do . E while ( AD AB AE ) ;][E . { GN AJ }]}
+{[PQ printf . ( BA CO JJ ) ;]}
+{[H J . Q K M L ; H][Q . *][Q .]}
+{[Y for . ( X AD AB AE ; AA ) E Y]}
+{[Y while . ( AD AB AE ) E Y]}
+{[Y if . ( AD AB AE ) E AC Y]}
+{[Y switch . ( id ) AF Y]}
+{[I R . S SIG ; I][I R . S ID ; I][S . U =][S . U =][U . /][U . *][U . +][U . -][U .][U . /][U . *][U . +][U . -][U .]}
+{[J float .]}
+{[J int .]}
+{[J bool .]}
+{[J char .]}
+{[R K .]}
+ 
+{[K id . AL][K id . AL][AL . [ NN ] AL][AL .][AL . [ NN ] AL][AL .]}
+{[D ( F ) .]}
+{[E { GN AJ . }]}
+{[AJ return . nint ;]}
+{[G AZ G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[G YF G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[G FI G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[G PR G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[G PL G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[G PQ G .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[PR scanf ( . String KR ) ;]}
+{[PL do E . while ( AD AB AE ) ;]}
+ 
+{[PQ printf ( . BA CO JJ ) ;][BA . String][BA .]}
+{[H J Q . K M L ; H][K . id AL]}
+{[Q * .]}
+{[Y for ( . X AD AB AE ; AA ) E Y][X . BB id M ;][BB . J][BB .][J . float][J . int][J . bool][J . char]}
+{[Y while ( . AD AB AE ) E Y][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[Y if ( . AD AB AE ) E AC Y][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[Y switch ( . id ) AF Y]}
+{[I R S . SIG ; I][I R S . ID ; I][SIG . T][ID . Caracter][ID . String][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[S U . =][S U . =]}
+{[U / .]}
+{[U * .]}
+{[U + .]}
+{[U - .]}
+ 
+ 
+ 
+ 
+{[K id AL .][K id AL .]}
+{[AL [ . NN ] AL][NN . nint][NN . id]}
+ 
+{[E { GN AJ } .]}
+{[AJ return nint . ;]}
+{[PR scanf ( String . KR ) ;][KR . , AM id]}
+{[PL do E while . ( AD AB AE ) ;]}
+{[PQ printf ( BA . CO JJ ) ;][CO . ,][CO .]}
+{[BA String .]}
+{[H J Q K . M L ; H][M . = N R][M . = { DD P }][M .]}
+{[K id . AL][AL . [ NN ] AL][AL .]}
+{[Y for ( X . AD AB AE ; AA ) E Y][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[X BB . id M ;]}
+{[BB J .]}
+ 
+ 
+ 
+ 
+{[Y while ( AD . AB AE ) E Y][AB . <][AB . <=][AB . >][AB . >=][AB . !][AB . !=][AB . ==][AB . &&][AB . ||]}
+{[AD SIG .]}
+{[AD NN .][W NN .]}
+{[SIG T .][T T . V W][V . U][U . /][U . *][U . +][U . -][U .]}
+{[NN nint .][NN nint .]}
+{[NN id .][NN id .]}
+{[T W .]}
+{[W ( . T )][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[Y if ( AD . AB AE ) E AC Y][AB . <][AB . <=][AB . >][AB . >=][AB . !][AB . !=][AB . ==][AB . &&][AB . ||]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[Y switch ( id . ) AF Y]}
+{[I R S SIG . ; I]}
+{[I R S ID . ; I]}
+ 
+{[ID Caracter .]}
+{[ID String .]}
+ 
+{[W NN .]}
+ 
+{[NN nint .]}
+{[NN id .]}
+{[S U = .][S U = .]}
+{[AL [ NN . ] AL]}
+ 
+ 
+{[AJ return nint ; .]}
+{[PR scanf ( String KR . ) ;]}
+{[KR , . AM id][AM . &][AM .]}
+{[PL do E while ( . AD AB AE ) ;][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[PQ printf ( BA CO . JJ ) ;][JJ . JP NXT][JJ .][JP . K][JP . SIG][K . id AL][SIG . T][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[CO , .]}
+{[H J Q K M . L ; H][L . , Q K M L][L .]}
+{[M = . N R][M = . { DD P }][N . &][N . nint][N . Caracter]}
+{[K id AL .]}
+ 
+{[Y for ( X AD . AB AE ; AA ) E Y][AB . <][AB . <=][AB . >][AB . >=][AB . !][AB . !=][AB . ==][AB . &&][AB . ||]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[X BB id . M ;][M . = N R][M . = { DD P }][M .]}
+{[Y while ( AD AB . AE ) E Y][AE . AD][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[AB < .]}
+{[AB <= .]}
+{[AB > .]}
+{[AB >= .]}
+{[AB ! .]}
+{[AB != .]}
+{[AB == .]}
+{[AB && .]}
+{[AB || .]}
+{[T T V . W][W . NN][W . ( T )][NN . nint][NN . id]}
+{[V U .]}
+ 
+ 
+ 
+ 
+{[W ( T . )][T T . V W][V . U][U . /][U . *][U . +][U . -][U .]}
+ 
+ 
+ 
+ 
+ 
+{[Y if ( AD AB . AE ) E AC Y][AE . AD][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[Y switch ( id ) . AF Y][AF . { AG AH }]}
+{[I R S SIG ; . I][I . R S SIG ; I][I . R S ID ; I][I .][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[I R S ID ; . I][I . R S SIG ; I][I . R S ID ; I][I .][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[AL [ NN ] . AL][AL . [ NN ] AL][AL .]}
+{[PR scanf ( String KR ) . ;]}
+{[KR , AM . id]}
+{[AM & .]}
+{[PL do E while ( AD . AB AE ) ;][AB . <][AB . <=][AB . >][AB . >=][AB . !][AB . !=][AB . ==][AB . &&][AB . ||]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[PQ printf ( BA CO JJ . ) ;]}
+{[JJ JP . NXT][NXT . , JP NXT][NXT .]}
+{[JP K .]}
+{[JP SIG .]}
+{[K id . AL][NN id .][AL . [ NN ] AL][AL .]}
+ 
+ 
+ 
+ 
+ 
+{[H J Q K M L . ; H]}
+{[L , . Q K M L][Q . *][Q .]}
+{[M = N . R][R . K][R .][K . id AL]}
+{[M = { . DD P }][DD . nint][DD . caracter]}
+{[N & .]}
+{[N nint .]}
+{[N Caracter .]}
+{[Y for ( X AD AB . AE ; AA ) E Y][AE . AD][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[X BB id M . ;]}
+ 
+{[Y while ( AD AB AE . ) E Y]}
+{[AE AD .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[T T V W .]}
+ 
+ 
+ 
+ 
+{[W ( T ) .]}
+ 
+ 
+ 
+ 
+ 
+ 
+{[Y if ( AD AB AE . ) E AC Y]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[Y switch ( id ) AF . Y][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y]}
+{[AF { . AG AH }][AG . AI AG][AG .][AI . case nint : GN break ;]}
+{[I R S SIG ; I .]}
+ 
+ 
+ 
+ 
+{[I R S ID ; I .]}
+ 
+ 
+ 
+ 
+{[AL [ NN ] AL .]}
+ 
+{[PR scanf ( String KR ) ; .]}
+{[KR , AM id .]}
+{[PL do E while ( AD AB . AE ) ;][AE . AD][AD . SIG][AD . NN][SIG . T][NN . nint][NN . id][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[PQ printf ( BA CO JJ ) . ;]}
+{[JJ JP NXT .]}
+{[NXT , . JP NXT][JP . K][JP . SIG][K . id AL][SIG . T][T . T V W][T . W][W . NN][W . ( T )][NN . nint][NN . id]}
+ 
+ 
+{[H J Q K M L ; . H][H . J Q K M L ; H][H .][J . float][J . int][J . bool][J . char]}
+{[L , Q . K M L][K . id AL]}
+ 
+{[M = N R .]}
+ 
+ 
+{[M = { DD . P }][P . , DD P][P .]}
+{[DD nint .]}
+{[DD caracter .]}
+{[Y for ( X AD AB AE . ; AA ) E Y]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[X BB id M ; .]}
+{[Y while ( AD AB AE ) . E Y][E . { GN AJ }]}
+{[Y if ( AD AB AE ) . E AC Y][E . { GN AJ }]}
+{[Y switch ( id ) AF Y .]}
+ 
+ 
+ 
+ 
+{[AF { AG . AH }][AH . default : GN break ;][AH .]}
+{[AG AI . AG][AG . AI AG][AG .][AI . case nint : GN break ;]}
+{[AI case . nint : GN break ;]}
+{[PL do E while ( AD AB AE . ) ;]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[PQ printf ( BA CO JJ ) ; .]}
+{[NXT , JP . NXT][NXT . , JP NXT][NXT .]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[H J Q K M L ; H .]}
+ 
+ 
+ 
+ 
+ 
+{[L , Q K . M L][M . = N R][M . = { DD P }][M .]}
+ 
+{[M = { DD P . }]}
+{[P , . DD P][DD . nint][DD . caracter]}
+{[Y for ( X AD AB AE ; . AA ) E Y][AA . K ++][AA . K --][K . id AL][K . id AL]}
+{[Y while ( AD AB AE ) E . Y][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y]}
+ 
+{[Y if ( AD AB AE ) E . AC Y][AC . else E][AC .]}
+ 
+{[AF { AG AH . }]}
+{[AH default . : GN break ;]}
+{[AG AI AG .]}
+ 
+ 
+{[AI case nint . : GN break ;]}
+{[PL do E while ( AD AB AE ) . ;]}
+{[NXT , JP NXT .]}
+ 
+{[L , Q K M . L][L . , Q K M L][L .]}
+ 
+{[M = { DD P } .]}
+{[P , DD . P][P . , DD P][P .]}
+ 
+ 
+{[Y for ( X AD AB AE ; AA . ) E Y]}
+{[AA K . ++][AA K . --]}
+ 
+{[Y while ( AD AB AE ) E Y .]}
+ 
+ 
+ 
+ 
+{[Y if ( AD AB AE ) E AC . Y][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y]}
+{[AC else . E][E . { GN AJ }]}
+{[AF { AG AH } .]}
+{[AH default : . GN break ;][GN . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[AI case nint : . GN break ;][GN . G][G . AZ G][G . YF G][G . FI G][G . PR G][G . PL G][G . PQ G][G .][AZ . H][AZ .][YF . Y][FI . I][PR . scanf ( String KR ) ;][PR .][PL . do E while ( AD AB AE ) ;][PL .][PQ . printf ( BA CO JJ ) ;][PQ .][H . J Q K M L ; H][H .][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y][I . R S SIG ; I][I . R S ID ; I][I .][J . float][J . int][J . bool][J . char][R . K][R .][R . K][R .][K . id AL][K . id AL]}
+{[PL do E while ( AD AB AE ) ; .]}
+{[L , Q K M L .]}
+ 
+{[P , DD P .]}
+ 
+{[Y for ( X AD AB AE ; AA ) . E Y][E . { GN AJ }]}
+{[AA K ++ .]}
+{[AA K -- .]}
+{[Y if ( AD AB AE ) E AC Y .]}
+ 
+ 
+ 
+ 
+{[AC else E .]}
+ 
+{[AH default : GN . break ;]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[AI case nint : GN . break ;]}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{[Y for ( X AD AB AE ; AA ) E . Y][Y . for ( X AD AB AE ; AA ) E Y][Y .][Y . while ( AD AB AE ) E Y][Y . if ( AD AB AE ) E AC Y][Y . switch ( id ) AF Y]}
+ 
+{[AH default : GN break . ;]}
+{[AI case nint : GN break . ;]}
+{[Y for ( X AD AB AE ; AA ) E Y .]}
+ 
+ 
+ 
+ 
+{[AH default : GN break ; .]}
+{[AI case nint : GN break ; .]}

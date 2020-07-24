@@ -1,0 +1,9 @@
+int main(){
+int i,a,b,v1[5],v2[5][2][5],suma=0;
+while (a != b)
+{
+	v1[2][0][0]='a';
+	printf(a+b);
+}
+return 0;
+}

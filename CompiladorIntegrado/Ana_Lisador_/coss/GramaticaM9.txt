@@ -1,0 +1,98 @@
+A
+A B C D E F G H I J K L M N NN P Q R S T U V W Y X Z AA AB AC BB AD AE AF AG AH AI PR CAC XB
+int main ( ) { } epsilon id char bool float , num [ ] & ! = ; + - / * ++ -- for < > <= >= != == else if && || while % " s c d e f g i o s u x switch case const default break : printf scanf
+A B C D E
+B int
+B epsilon
+C main
+D ( F )
+F epsilon
+E { G }
+G H Y I PR G
+G H
+G I
+G Y
+G PR
+Y epsilon
+G epsilon
+H J Q K M L ; H
+H epsilon
+L , Q K M L
+L epsilon
+J float
+J int
+J bool
+J char
+K id
+K id [ NN ]
+M = N R
+M = { N P }
+M epsilon
+N &
+N num
+NN num
+NN id
+R K
+R epsilon
+P , num P
+P epsilon
+Q *
+Q epsilon
+I R S T ; I
+I epsilon
+R K
+S U =
+U /
+U *
+U +
+U -
+U epsilon
+T T V W
+T W
+W NN
+W ( T )
+V U
+Y for ( X Z AA ) E Y
+Y epsilon
+X BB id M ;
+BB J
+BB epsilon
+Z AD AB AE ;
+AB < XB
+AB > XB
+AB ! XB
+AB = XB
+AB &&
+AB ||
+XB =
+XB epsilon
+AA K ++
+AA K --
+Y while ( AD AB AE ) E Y
+Y if ( AD AB AE ) E AC Y
+AC else E
+AC epsilon
+AE AD
+AD T
+AD NN
+Y switch ( id ) AF Y
+AI case const : I break ;
+AH default : I break ;
+AH epsilon
+AF { AG AH }
+AG AI AG
+AG epsilon
+PR printf ( " % CAC " , id ) ;
+PR scanf ( " % CAC " , & id ) ;
+PR scanf ( " % s " , id ) ;  
+PR epsilon
+CAC c
+CAC d
+CAC e
+CAC f
+CAC g
+CAC i
+CAC o
+CAC s
+CAC u
+CAC x

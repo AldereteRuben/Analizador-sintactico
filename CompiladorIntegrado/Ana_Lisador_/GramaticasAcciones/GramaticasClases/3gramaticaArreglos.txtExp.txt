@@ -1,0 +1,9 @@
+N -> { int char float }
+V -> { id }
+W -> { [ epsilon }
+T -> { int char float }
+
+N -> { $ }
+V -> { ; }
+W -> { ; }
+T -> { id }

@@ -1,0 +1,7 @@
+D -> { float int }
+L -> { , epsilon }
+T -> { float int }
+
+D -> { $ }
+L -> { ; }
+T -> { id }

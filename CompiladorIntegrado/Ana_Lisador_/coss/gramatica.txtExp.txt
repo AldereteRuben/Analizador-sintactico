@@ -1,0 +1,85 @@
+A -> { int main }
+B -> { int epsilon }
+C -> { main }
+D -> { ( }
+F -> { epsilon }
+E -> { { }
+G -> { float int bool char for while if switch id / * + - = , scanf do printf epsilon }
+AZ -> { float int bool char epsilon }
+AJ -> { return epsilon }
+H -> { float int bool char epsilon }
+L -> { , epsilon }
+J -> { float int bool char }
+K -> { id }
+M -> { = epsilon }
+N -> { & nint }
+NN -> { nint id }
+R -> { id epsilon }
+P -> { , epsilon }
+Q -> { * epsilon }
+I -> { id / * + - = epsilon }
+S -> { / * + - = }
+U -> { / * + - epsilon }
+T -> { nint id ( }
+W -> { nint id ( }
+V -> { / * + - epsilon }
+Y -> { for epsilon while if switch }
+X -> { float int bool char id }
+BB -> { float int bool char epsilon }
+Z -> { nint id ( }
+AB -> { < > ! = && || }
+XB -> { = epsilon }
+AA -> { id }
+AC -> { else epsilon }
+AE -> { nint id ( }
+AD -> { nint id ( }
+AI -> { case }
+AH -> { default epsilon }
+AF -> { { }
+AG -> { case epsilon }
+PQ -> { printf epsilon }
+PR -> { , scanf epsilon }
+PL -> { do epsilon }
+
+A -> { $ }
+B -> { main }
+C -> { ( }
+D -> { { }
+F -> { ) }
+E -> { $ for while if switch id / * + - = , scanf do printf float int bool char return } ) break else }
+G -> { return } }
+AZ -> { for while if switch id / * + - = , scanf do printf float int bool char return } ) break }
+AJ -> { } }
+H -> { for while if switch id / * + - = , scanf do printf float int bool char return } ) break }
+L -> { ; }
+J -> { * id }
+K -> { = , ; / * + - ++ -- }
+M -> { , ; }
+N -> { id , ; / * + - = } }
+NN -> { ] ; / * + - nint id ( ) < > ! = && || }
+R -> { , ; / * + - = }
+P -> { } }
+Q -> { id }
+I -> { , scanf do printf float int bool char for while if switch id / * + - = return } ) break }
+S -> { nint id ( }
+U -> { = nint id ( }
+T -> { ; / * + - nint id ( ) < > ! = && || }
+W -> { ; / * + - nint id ( ) < > ! = && || }
+V -> { nint id ( }
+Y -> { id / * + - = , scanf do printf float int bool char for while if switch return } ) break }
+X -> { nint id ( }
+BB -> { id }
+Z -> { id }
+AB -> { nint id ( }
+XB -> { nint id ( }
+AA -> { ) }
+AC -> { for while if switch id / * + - = , scanf do printf float int bool char return } ) break }
+AE -> { ; ) }
+AD -> { < > ! = && || ; ) }
+AI -> { case default } }
+AH -> { } }
+AF -> { for while if switch id / * + - = , scanf do printf float int bool char return } ) break }
+AG -> { default } }
+PQ -> { float int bool char for while if switch id / * + - = , scanf do printf return } }
+PR -> { do printf float int bool char for while if switch id / * + - = , scanf return } ) }
+PL -> { printf float int bool char for while if switch id / * + - = , scanf do return } }

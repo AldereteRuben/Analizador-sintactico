@@ -1,0 +1,120 @@
+{ A.trad:=B.trad||C.trad||D.trad||E.trad }
+{ No tiene accion semantica }
+{ B.trad:="" }
+{ C.trad:="begin" }
+{ No tiene accion semantica }
+{ F:="" }
+{ E.trad:=G.trad||AJ.trad }
+{ G.trad:=AZ.trad||G.trad }
+{ G.trad:=Y.trad||G.trad }
+{ G.trad:=I.trad||G.trad }
+{ G.trad:=PR.trad||G.trad }
+{ G.trad:=PL.trad||G.trad }
+{ G.trad:=PQ.trad||G.trad }
+{ G.trad:="" }
+{ AZ.trad:=H.trad }
+{ AZ.trad="" }
+{ AJ.trad:="end." }
+{ AJ.trad="" }
+{ if Q.trad="*"
+	   H.trad:="type"||K.trad||J.trad||";"||H.trad
+  if AL.trad!=""
+     H.trad:="var"||id.valex||":"||"array"||"["||"0"||".."||nint.valex||L.trad||"of"||J.trad||";"||H.trad
+  else
+     H.trad:="var"||id.valex||L.trad||":"||J.trad||";"||H.trad
+}
+{ H.trad:="" }
+{ if AL.trad=""
+    L.trad:=","||id.valex||L.trad }
+  else
+    L.trad:=","||"0"||".."||nint.valex||L.trad }
+{ L.trad:="" }
+{ J.trad:="real" }
+{ J.trad:="integer" }
+{ J.trad:="boolean" }
+{ J.trad:="char" }
+{ K.trad:=id.valex||AL.trad }
+{ AL.trad:=[NN.trad]||AL.trad }
+{ AL.trad:=""}
+{ M.trad:=":="||N.trad }
+{ M.trad:=":="||("||DD.trad||P.trad||")" }
+{ M.trad:="" }
+{ No tiene accion semantica }
+{ N.trad:=nint.valex }
+{ N.trad:=caracter.valex }
+{ NN.trad:=nint.valex }
+{ NN.trad:=id.valex }
+{ R.trad:=K.trad }
+{ R.trad:="" }
+{ P.trad:=","||DD.trad||P.trad }
+{ P.trad:="" }
+{ DD.trad:= nint.valex }
+{ DD.trad:= caracter.valex }
+{ Q.trad:="*" }
+{ Q.trad:="" }
+{ I.trad:=R.trad||S.trad||T.trad||";"||I.trad }
+{ I.trad:=R.trad||S.trad||ID||";"||I.trad }
+{ I.trad:="" }
+{ ID.trad:=caracter.valex }
+{ ID.trad:=string.valex }
+{ if U.trad=""
+     S.trad:=U.trad||":="
+  else 
+     S.trad:=U.trad||"=" }
+{ U.trad:="/" }
+{ U.trad:="*" }
+{ U.trad:="+" }
+{ U.trad:="-" }
+{ U.trad:="" }
+{ T.trad:=T.trad||V.trad||W.trad }
+{ T.trad:=W.trad }
+{ W.trad:=NN.trad }
+{ W.trad:="("||T.trad||")" }
+{ V.trad:=U.trad }
+{ Y.trad:="for"||X.trad||"to"||NN.trad||"do"||"begin"||E.trad||"end"||";"||Y.trad }
+{ Y.trad:="" }
+{ X.trad:=id.valex||M.trad }
+{ BB.trad:=J.trad }
+{ BB.trad:="" }
+{ AB.trad:="<" }
+{ AB.trad:="<=" }
+{ AB.trad:=">"}
+{ AB.trad:=">="}
+{ AB.trad:="not"}
+{ AB.trad:="<>" }
+{ AB.trad:="=" }
+{ AB.trad:="and" }
+{ AB.trad:="or" }
+{ No tiene accion semantica }
+{ No tiene accion semantica }
+{ Y.trad:="while"||AD.trad||AB.trad||AE.trad||"do"||"begin"||E.trad||"end"||";"||Y.trad }
+{ Y.trad:="if"||AD.trad||AB.trad||AE.trad||"then"||"begin"||E.trad||"end"||AC.trad||Y.trad }
+{ AC.trad:="else"||"begin"||E.trad||"end"||";" }
+{ AC.trad:="" }
+{ AE.trad:=AD.trad }
+{ AD.trad:=T.trad }
+{ AD.trad:=NN.trad }
+{ Y.trad:="case"||id.valex||"of"||AF.trad||Y.trad }
+{ AI.trad:=NN.trad||":"||"begin"||E.trad||"end;" }
+{ AH.trad:="else"||"begin"||E.trad||"end"||";" }
+{ AH.trad:="" }
+{ AF.trad:=AG.trad||AH.trad }
+{ AG.trad:=AI.trad||AG.trad }
+{ AG.trad:="" }
+{ PQ.trad:="write"||"("||BA.trad||CO.trad||JP.trad||")"||";" }
+{ PQ.trad:="" }
+{ BA.trad:=String.valex }
+{ BA.trad:="" }
+{ JP.trad:=K.trad||JP.trad }
+{ JP.trad:=OP.trad||JP.trad }
+{ JP.trad:="" }
+{ CO.trad:= "," }
+{ CO.trad:="" }
+{ OP.trad:=K.trad||U.trad||R.trad }
+{ PR.trad:="read"||"("||KR.trad||")"||";" }
+{ PR.trad:="" }
+{ KR.trad:=id.valex }
+{ No tiene accion semantica }
+{ AM.trad:=""}
+{ No tiene accion semantica }
+{ PL.trad:="" }

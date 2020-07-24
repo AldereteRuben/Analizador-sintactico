@@ -1,0 +1,79 @@
+A -> { int main }
+B -> { int epsilon }
+C -> { main }
+D -> { ( }
+F -> { epsilon }
+E -> { { }
+G -> { float int bool char for while if switch id / * + - = printf scanf epsilon }
+Y -> { epsilon for while if switch }
+H -> { float int bool char epsilon }
+L -> { , epsilon }
+J -> { float int bool char }
+K -> { id }
+M -> { = epsilon }
+N -> { & num }
+NN -> { num id }
+R -> { id epsilon }
+P -> { , epsilon }
+Q -> { * epsilon }
+I -> { id / * + - = epsilon }
+S -> { / * + - = }
+U -> { / * + - epsilon }
+T -> { num id ( }
+W -> { num id ( }
+V -> { / * + - epsilon }
+X -> { float int bool char id }
+BB -> { float int bool char epsilon }
+Z -> { num id ( }
+AB -> { < > ! = && || }
+XB -> { = epsilon }
+AA -> { id }
+AC -> { else epsilon }
+AE -> { num id ( }
+AD -> { num id ( }
+AI -> { case }
+AH -> { default epsilon }
+AF -> { { }
+AG -> { case epsilon }
+PR -> { printf scanf epsilon }
+CAC -> { c d e f g i o s u x }
+
+A -> { $ }
+B -> { main }
+C -> { ( }
+D -> { { }
+F -> { ) }
+E -> { $ for while if switch id / * + - = printf scanf float int bool char } break else }
+G -> { } }
+Y -> { id / * + - = printf scanf float int bool char for while if switch } break }
+H -> { for while if switch id / * + - = printf scanf float int bool char } break }
+L -> { ; }
+J -> { * id }
+K -> { = , ; / * + - ++ -- }
+M -> { , ; }
+N -> { id , ; / * + - = } }
+NN -> { ] ; / * + - num id ( ) < > ! = && || }
+R -> { , ; / * + - = }
+P -> { } }
+Q -> { id }
+I -> { printf scanf float int bool char for while if switch id / * + - = } break }
+S -> { num id ( }
+U -> { = num id ( }
+T -> { ; / * + - num id ( ) < > ! = && || }
+W -> { ; / * + - num id ( ) < > ! = && || }
+V -> { num id ( }
+X -> { num id ( }
+BB -> { id }
+Z -> { id }
+AB -> { num id ( }
+XB -> { num id ( }
+AA -> { ) }
+AC -> { for while if switch id / * + - = printf scanf float int bool char } break }
+AE -> { ; ) }
+AD -> { < > ! = && || ; ) }
+AI -> { case default } }
+AH -> { } }
+AF -> { for while if switch id / * + - = printf scanf float int bool char } break }
+AG -> { default } }
+PR -> { float int bool char for while if switch id / * + - = printf scanf } }
+CAC -> { " }

@@ -1,0 +1,117 @@
+A
+A B C D E F G H I J K L M N NN P Q R S T U V W Y X Z AA AB AC BB AD AE AF AG AH AI AJ AZ AL PR PL PQ CAC XB JP BA AM KR AS ID CO DD SIG GN FI YF NXT JJ
+int main ( ) { } epsilon id char bool float , nint [ ] & ! = ; + - / * ++ -- for < > <= >= != == else if && || while " switch case default break do String : printf scanf return Caracter 
+A B C D E
+B int 
+B epsilon
+C main
+D ( F )
+F epsilon
+E { GN AJ }
+GN G
+G AZ G
+G YF G
+G FI G
+G PR G
+G PL G
+G PQ G
+G epsilon
+AZ H
+AZ epsilon
+AJ return nint ;
+AJ epsilon
+H J Q K M L ; H
+H epsilon
+L , Q K M L
+L epsilon
+J float
+J int
+J bool
+J char
+K id AL 
+AL [ NN ] AL
+AL epsilon
+M = N R
+M = { DD P }
+M epsilon
+N &
+N nint
+N Caracter
+NN nint
+NN id
+R K
+R epsilon
+P , DD P 
+P epsilon
+DD nint
+DD caracter
+Q *
+Q epsilon
+FI I
+I R S SIG ; I
+I R S ID ; I
+I epsilon
+ID Caracter 
+ID String
+S U =
+U /
+U *
+U +
+U -
+U epsilon
+SIG T
+T T V W
+T W
+W NN
+W ( T )
+V U
+YF Y
+Y for ( X AD AB AE ; AA ) E Y
+Y epsilon
+X BB id M ;
+BB J
+BB epsilon
+AB <
+AB <=
+AB > 
+AB >=
+AB ! 
+AB !=
+AB ==
+AB &&
+AB ||
+AA K ++ 
+AA K --
+Y while ( AD AB AE ) E Y
+Y if ( AD AB AE ) E AC Y
+AC else E
+AC epsilon
+AE AD
+AD SIG
+AD NN
+Y switch ( id ) AF Y
+AI case nint : GN break ;
+AH default : GN break ;
+AH epsilon
+AF { AG AH }
+AG AI AG
+AG epsilon
+PQ printf ( BA CO JJ ) ;
+PQ epsilon
+JJ JP NXT
+JJ epsilon
+BA String 
+BA epsilon
+CO ,
+CO epsilon
+JP K 
+JP SIG
+NXT , JP NXT
+NXT epsilon
+PR scanf ( String KR ) ;
+PR epsilon
+KR , AM id
+AM & 
+AM epsilon
+PL do E while ( AD AB AE ) ;
+PL epsilon

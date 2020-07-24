@@ -1,0 +1,11 @@
+E 
+E T L F
+* + id int float epsilon
+E E *
+E T F L
+T +
+T epsilon
+F id
+F epsilon
+L int
+L F float

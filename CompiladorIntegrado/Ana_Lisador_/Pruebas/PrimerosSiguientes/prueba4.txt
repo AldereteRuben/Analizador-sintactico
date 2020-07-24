@@ -1,0 +1,8 @@
+E
+E T L F
++ , id * ( ) epsilon
+E + T L ,
+L T id epsilon
+T F * T
+F epsilon
+F ( E )
